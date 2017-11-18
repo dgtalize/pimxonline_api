@@ -5,5 +5,8 @@ module.exports = {
         user: "testuser",
         password: "123456",
         database: "pimx"
+    },
+    defaults: {
+        maxrecords: 10
     }
 };
