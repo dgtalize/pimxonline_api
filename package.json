@@ -1,0 +1,22 @@
+{
+  "name": "pimx_api",
+  "version": "1.0.0",
+  "description": "PIM Xtreme Online API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pim",
+    "xtreme",
+    "pimx",
+    "api"
+  ],
+  "author": "DGtalize",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
